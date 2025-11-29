@@ -6,12 +6,12 @@ services:
     startCommand: python bot/main.py
     envVars:
       - key: API_ID
-        value: your_api_id
+        value: 27400172
       - key: API_HASH
-        value: your_api_hash
+        value: 56d0a75c5f9a9de6beb5452aa63c2d36
       - key: BOT_TOKEN
-        value: your_bot_token
+        value: 8204209080:AAHQx2wvrV1yrLoJgrxswYgLBf_mkzXqKHQ
       - key: OWNER_ID
-        value: your_user_id
+        value: 7540570087
       - key: CHANNEL_ID
-        value: your_channel_id
+        value: -1003414109205
